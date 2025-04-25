@@ -14,3 +14,8 @@ This is my first repository as a devops engineers
 ![ai-startup](./imgs/ai-startup5.jpg)
 
 ![ai-startup](./imgs/ai-startup6.jpg)
+
+![merg](./imgs/merge%201.jpg)
+
+![pull](./imgs/pull2.jpg)
+
